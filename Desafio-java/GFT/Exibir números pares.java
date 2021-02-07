@@ -9,7 +9,7 @@ public class Main {
     String entrada;
     BufferedReader br = new BufferedReader (new InputStreamReader(System.in));
     entrada = br.readLine();
-    for (int i = 2; i < Integer.parseInt(entrada); i++){
+    for (int i = 2; i <= Integer.parseInt(entrada); i++){
       if (i % 2 == 0){
         System.out.println(i);
       }
