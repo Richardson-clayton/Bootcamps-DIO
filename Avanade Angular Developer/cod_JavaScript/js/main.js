@@ -1,10 +1,10 @@
 //Primeira aula de JS
 
 /*var nome = "Richardson Clayton";
-var frase = "O japão é melhor time do mundo.";
+var frase = "O japão é melhor time do mundo.";*/
 alert("Bem vindo " + nome);
 //alert("Leio o testo que fala do JS");
-console.log(nome);// verifica na inspeção do navegador, trabalha junto ao criente.
+/*console.log(nome);// verifica na inspeção do navegador, trabalha junto ao criente.
 console.log(frase.replace("japão", "Brasil"))
 alert("O Brasil é o melhor time do mundo.")*/
 
