@@ -47,4 +47,22 @@ header nav a:hover{
     background-size: cover;
     
 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+
+.filme-principal .container{
+    margin: 40px;
+    
+}
+
+.filme-principal .Sinopse{
+    margin-bottom: 35px;
+}
+
+.titulo{
+    font-size: 35px;
 }
