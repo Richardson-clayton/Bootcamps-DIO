@@ -8,6 +8,7 @@
     box-sizing: border-box;
 }
 
+/*elemento base*/
 body{
     background: var(--preto);
     font-family: 'Times New Roman', Times, serif;
@@ -28,7 +29,6 @@ header .logo{
     font-size: 32px;
 }
 
-
 header nav a{
     text-decoration: none;
     color: #AAA;
@@ -37,4 +37,11 @@ header nav a{
 
 header nav a:hover{
     color: #fff;
+}
+
+/*filmes principal*/
+.filme-principal{
+    font-size: 15px;
+    background: url('../img/filme-capa.jpg');
+
 }
