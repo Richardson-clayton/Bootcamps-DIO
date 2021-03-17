@@ -102,3 +102,12 @@ header nav a:hover{
     width: 100%;
     display: block;
 }
+
+a:hover{
+    color: white;
+    
+}
+
+.carrosel-filme{
+    margin-top: 8px;
+}
