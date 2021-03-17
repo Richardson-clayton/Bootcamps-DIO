@@ -41,6 +41,7 @@ header nav a:hover{
 
 /*filmes principal*/
 .filme-principal{
+    margin-top: 5px;
     font-size: 15px;
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/filme-capa.jpg');
     height: 500px;
@@ -71,6 +72,14 @@ header nav a:hover{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+a:hover{
+    color: white;
+    
+}
+
+
+/* Botão*/
+
 .botao{
     background-color: rgba(0,0,0,.50);
     border: none;
@@ -97,15 +106,12 @@ header nav a:hover{
     margin-left: 10px;
 }
 
+/*Filmes*/
+
 .box-filme{
     height: 100%;
     width: 100%;
     display: block;
-}
-
-a:hover{
-    color: white;
-    
 }
 
 .carrosel-filme{
