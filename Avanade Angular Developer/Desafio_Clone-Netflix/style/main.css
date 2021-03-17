@@ -77,10 +77,16 @@ a:hover{
     
 }
 
+.titulo-filme{
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 /* Botão*/
 
 .botao{
-    background-color: rgba(0,0,0,.50);
+    background-color: var(--vermelho);
     border: none;
     color: white;
 
@@ -112,6 +118,7 @@ a:hover{
     width: 100%;
     display: block;
 }
+
 
 .carrosel-filme{
     margin-top: 8px;
