@@ -81,6 +81,15 @@ a:hover{
     margin-top: 15px;
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.sub-titulo{
+    margin-top: 6px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(79, 245, 79);
+
 }
 
 /* Botão*/
